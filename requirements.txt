@@ -1,0 +1,12 @@
+langchain-core>=1.0.0,<2.0.0
+langchain-openai>=1.0.0,<2.0.0
+langchain-community>=0.4.0,<0.5.0
+langchain-text-splitters>=1.0.0,<2.0.0
+python-dotenv>=1.0.0
+pypdf>=4.0.0
+azure-search-documents>=11.4.0
+tiktoken>=0.5.0
+ragas>=0.2.15,<0.3.0
+datasets>=2.14.0
+azure.identity
+streamlit>=1.35.0
